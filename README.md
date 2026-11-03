@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](README.tr.md)
+
 <div align="center" markdown="1">
    <a href="https://mylevel.dev?utm_source=github&utm_medium=gh_banner&utm_campaign=gh_sponsorship">
     <img width="400" alt="FTSE sponsorship card" src="https://github.com/user-attachments/assets/32ad7485-feec-4f87-b213-7c4ecfbe7fea" />
