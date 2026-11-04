@@ -117,6 +117,92 @@ Ama bunları bilmek daha iyi bir programcı olmanıza yardım eder! :muscle:*
 - :page_facing_up: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 - :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
+### Kullanıcı Deneyimi (UX) ve Kullanılabilirlik
+- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/906418692)
+
+### SEO
+- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo)
+
+### Mimari
+- :scroll: [A Field Guide to Boxology](https://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)
+- :scroll: [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
+- :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](http://www.cs.unc.edu/techreports/86-020.pdf)
+- :movie_camera: [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+- :movie_camera: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- :book: [Practical Object Oriented Design in Ruby](https://www.poodr.com/)
+- :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
+- [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
+- :page_facing_up: [How JavaScript works: part-1](https://medium.com/sessionstack-blog/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://medium.com/sessionstack-blog/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://medium.com/sessionstack-blog/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+- :movie_camera: [Entity-Component-System Architecture with Unity by example](https://www.youtube.com/watch?v=lNTaC-JWmdI&t=166s&list=PLZlJZzHmx31XvgT96DfbXQ4IMb1ryztbp&index=33)
+
+### Kod Tasarımı
+- :page_facing_up: [Programming Principles Wiki](http://www.principles-wiki.net/)
+
+### Mühendislik Felsefesi
+- :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
+- :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
+- :movie_camera: [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
+- :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
+- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
+- :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
+- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
+- :movie_camera: [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+
+### Uygulamalar ve Pratikler
+- :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- :book: [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.goodreads.com/ru/book/show/8677004-the-art-of-readable-code)
+- :book: [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
+- :book: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+- :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
+- :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
+- :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
+- :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+- :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
+- :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
+  Bir dilin temellerini son derece yoğun bir biçimde öğrenin.
+- [Hyperpolyglot](http://hyperpolyglot.org/)
+  Birbirine az çok benzeyen dillerin sık kullanılan özelliklerini yan yana karşılaştırın. Python<->Ruby, Ocaml<->Haskell gibi diller arasında geçiş yapmanıza yardımcı olur.
+- :page_facing_up: [Pomodoro for Programmers](https://medium.com/@mr_mig_by/pomodoro-for-programmers-d6568dd1e6fc)
+- :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
+
+### Kariyer
+- :moneybag: [Levels FYI](https://www.levels.fyi)  
+  Çeşitli teknoloji şirketlerinin maaş istatistikleri. Glassdoor'dan daha iyi.
+- :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
+- :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
+- :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
+- [Software Engineering 101](https://slides.com/mr-mig/se101)
+- :book: [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
+- :book: [Soft Skills: The software developer's life manual](https://www.goodreads.com/book/show/23232941-soft-skills)
+- :book: [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
+- :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
+- [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
+- :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.com/free-code-camp/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+- :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
+- :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
+- :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
+- 📈 [TL;DR; Stock Options](https://web.archive.org/web/20190304234515/https://tldroptions.io/)
+    - [HN'deki tartışma #1](https://news.ycombinator.com/item?id=14463260)
+    - [HN'deki tartışma #2](https://news.ycombinator.com/item?id=19301570)
+- 📄 [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+- :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
+- :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
+- :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+- :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
+- :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
+- :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
+- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
+
 ----
 
-Çevirisi süren bölümler: UX/Usability, SEO, Architecture, Code Design, Engineering Philosophy, Practices, Career, Fine-tune Your Resume, Open Source, Remote Work, Problem Solving, Soft Skills, Mental Health, Papers on Programming, Free Books on Programming, Services, Licenses, Where To Look For Further Info, Coding Practice Sites, Learning through entertainment, Platform Engineering. Bu bölümler için şimdilik [özgün README](README.md)'ye bakın.
+Çevirisi süren bölümler: Fine-tune Your Resume, Open Source, Remote Work, Problem Solving, Soft Skills, Mental Health, Papers on Programming, Free Books on Programming, Services, Licenses, Where To Look For Further Info, Coding Practice Sites, Learning through entertainment, Platform Engineering. Bu bölümler için şimdilik [özgün README](README.md)'ye bakın.
