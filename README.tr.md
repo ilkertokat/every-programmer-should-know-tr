@@ -203,6 +203,58 @@ Ama bunları bilmek daha iyi bir programcı olmanıza yardım eder! :muscle:*
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
 - :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
+### Özgeçmişinizi İnceltin
+- :hammer: [CV Compiler](https://cvcompiler.com/)
+
+### Açık Kaynak
+- :globe_with_meridians: [Learn how to use Git and GitHub](https://www.deployhq.com/git)
+
+### Uzaktan Çalışma
+- :globe_with_meridians: [Remotive.io: Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
+- :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
+- :zap: [NomadList](https://nomadlist.com/)
+- :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
+- :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+
+### Problem Çözme
+- :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
+- :book: [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
+
+### Sosyal Beceriler (Soft Skills)
+- :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
+- :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+- :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+### Ruh Sağlığı
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)  
+  Yazılım sektöründe ruh sağlığı üzerine özenle seçilmiş makale, web sitesi ve kaynakların listesi.
+
+### Programlama Üzerine Makaleler
+- :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+- :newspaper: [The Morning Paper](https://blog.acolyer.org/)
+- 📜 [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
+- 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
+- :newspaper: [Arxiv](https://arxiv.org/)
+- :newspaper: [Sci-hub](https://sci-hub.se/)
+
+### Ücretsiz Programlama Kitapları
+- :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+### Hizmetler :zap:
+- 🤖 [Abstract API's](https://www.abstractapi.com)
+- [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
+- [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+- [The Noun Project](https://thenounproject.com/)
+- [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
+- [Simpleicons](https://simpleicons.org/)
+- [Learn Anything](https://learn-anything.xyz/)
+- [repl.it](https://repl.it/)
+
+### Lisanslar
+- [Choose An Open Source License](https://choosealicense.com/)
+- [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
+- [How open source licenses work and how to add them to your projects](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94)
+
 ----
 
-Çevirisi süren bölümler: Fine-tune Your Resume, Open Source, Remote Work, Problem Solving, Soft Skills, Mental Health, Papers on Programming, Free Books on Programming, Services, Licenses, Where To Look For Further Info, Coding Practice Sites, Learning through entertainment, Platform Engineering. Bu bölümler için şimdilik [özgün README](README.md)'ye bakın.
+Çevirisi süren bölümler: Where To Look For Further Info, Coding Practice Sites, Learning through entertainment, Platform Engineering. Bu bölümler için şimdilik [özgün README](README.md)'ye bakın.
