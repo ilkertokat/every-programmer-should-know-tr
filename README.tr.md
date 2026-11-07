@@ -255,6 +255,68 @@ Ama bunları bilmek daha iyi bir programcı olmanıza yardım eder! :muscle:*
 - [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 - [How open source licenses work and how to add them to your projects](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94)
 
-----
+### Daha Fazla Bilgi İçin Nereye Bakılır
+- [freeCodeCamp Guide](https://guide.freecodecamp.org/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [Dev.To](https://dev.to/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Dzone](https://dzone.com/)
 
-Çevirisi süren bölümler: Where To Look For Further Info, Coding Practice Sites, Learning through entertainment, Platform Engineering. Bu bölümler için şimdilik [özgün README](README.md)'ye bakın.
+### Kodlama Alıştırması Siteleri :zap:
+- :link: [CodeForces](http://codeforces.com/)
+- :link: [CodeChef](https://www.codechef.com)
+- :link: [Coderbyte](https://coderbyte.com/)
+- :link: [CodinGame](https://www.codingame.com/)
+- :link: [Cs Academy](https://csacademy.com/)
+- :link: [HackerRank](https://hackerrank.com/)
+- :link: [Spoj](https://spoj.com/)
+- :link: [HackerEarth](https://hackerearth.com/)
+- :link: [TopCoder](https://www.topcoder.com/)
+- :link: [Codewars](https://codewars.com/)
+- :link: [Exercism](http://www.exercism.io/)
+- :link: [CodeSignal](https://codesignal.com/)
+- :link: [Project Euler](https://projecteuler.net/)
+- :link: [LeetCode](https://leetcode.com/)
+- :link: [Firecode.io](https://www.firecode.io/)
+- :link: [InterviewBit](https://www.interviewbit.com/)
+- :link: [uCoder](https://ucoder.com.br)
+- :link: [LintCode](https://www.lintcode.com/)
+- :link: [CodeCombat](https://codecombat.com/)
+- :link: [InterviewCake](https://www.interviewcake.com/)
+- :link: [At Coder](https://atcoder.jp/)
+- :link: [Codility](https://www.codility.com/)
+- :link: [ICPC Problem Archive](https://icpc.kattis.com/)
+- :link: [Codemia](https://codemia.io/)
+- :link: [LabEx](https://labex.io/)
+- :link: [Codebattle](https://codebattle.hexlet.io/)
+
+### Eğlenerek Öğrenme
+- [Robocode](https://robocode.sourceforge.io/)
+- [Elevatorsaga](https://play.elevatorsaga.com/)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/)
+- [CSS Diner](https://flukeout.github.io/)
+- [CodingGame](https://www.codingame.com/start/)
+
+
+### Platform Mühendisliği
+
+> DevOps ve SRE ilkelerinden doğan modern bir disiplindir. Çoğunlukla bir Internal Developer Platform (IDP, kurum içi geliştirici platformu) üzerinden, self-servis araçlar ve iş akışları kurup yöneterek geliştirici deneyimini ve verimliliğini artırmaya odaklanır. Amaç, geliştiricilerin bilişsel yükünü azaltmak ve kodun canlıya giden yolunu kolaylaştırmaktır.
+
+- **Platform Mühendisliği Nedir?**
+    * [Microsoft Learn: What is platform engineering?](https://learn.microsoft.com/en-us/platform-engineering/what-is-platform-engineering)  
+    Bu pratiğe, hedeflerine ve temel yeteneklerine kapsamlı bir genel bakış.
+    * [Atlassian: What is Platform Engineering?](https://www.atlassian.com/developer-experience/platform-engineering)  
+    Bir platform ekibinin rol ve sorumluluklarını çok iyi anlatan bir yazı.
+
+- **Internal Developer Platform (IDP, Kurum İçi Geliştirici Platformu)**
+    * [internaldeveloperplatform.org: What is an IDP?](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/)  
+    IDP kavramını, bir platform ekibinin temel ürünü olarak açıklayan başlangıç kaynağı.
+    * [Atlassian: Internal Developer Platform Guide](https://www.atlassian.com/developer-experience/internal-developer-platform)  
+    IDP kurmanın faydalarını ve en iyi uygulamalarını derinlemesine ele alır.
+
+- **Golden Paths (Altın Yollar, "Paved Roads")**
+    * [Spotify Engineering: How we use Golden Paths to solve fragmentation](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/11-spotify-templates/)  
+    Kavramın kaynağı Spotify: geliştiricilere yol göstermek için "belirli bir yaklaşımı benimseyen, destekli yolları" (opinionated and supported paths) nasıl kullandıklarını anlatır.
+    * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
+    * Golden Path'lerin verimliliği artırmak için şablonları ve standart iş akışlarını nasıl sunduğunu anlatan açık bir yazı.
+
